@@ -247,6 +247,7 @@ decision_tree = {
         "likelihood": 10,
         "treatment": "Consult a veterinarian for further examination.",
         "prevention": "Continue regular monitoring and record-keeping."
+    }
 
 # --- Utility Function ---
 def get_likely_diagnoses(tree):
