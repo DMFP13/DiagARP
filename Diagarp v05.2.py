@@ -154,7 +154,7 @@ decision_tree = {
         "prevention": "Continue regular monitoring and record-keeping."
     }
 }
-    },
+    }
     # [TRUNCATED — use full tree from latest corrected version]
     # This placeholder includes only the entry point. Paste the complete, validated tree here.
 }
